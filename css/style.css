@@ -1,0 +1,13 @@
+nav a {
+	text-decoration: none;
+}
+
+
+li{
+	text-decoration: none;
+	display:inline;
+}
+
+.current{
+	text-transform: uppercase;
+}
