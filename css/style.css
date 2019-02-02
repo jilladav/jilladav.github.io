@@ -10,4 +10,5 @@ li{
 
 .current{
 	text-transform: uppercase;
+	text-decoration: underline;
 }
